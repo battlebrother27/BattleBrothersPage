@@ -1,0 +1,46 @@
+body{
+	padding-top: 70px;
+	background-image: url(store.jpg);
+	background-size: 95%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: #000000;
+	font-family: 'Cinzel', serif;
+}
+h1{
+	font-weight: 900;
+	color: #f0f0f5;
+}
+h3{
+	color: #f0f0f5;
+}
+.navbar-inverse{
+	background: #1A1A1A;
+}
+.navbar-inverse .navbar-brand{
+	color: #9d9d9d;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #ffffff;
+}
+#content{
+	text-align: center;
+	padding-top: 57%;
+	margin: 50px;
+	color: #ffffff;
+}
+.btn-group-lg>.btn, .btn-lg{
+	font-weight: 700;
+}
+.btn-default{
+	background-color: #1A1A1A;
+	color: #9d9d9d;
+}
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #f0f0f5, rgba(0, 0, 0, 0));
+}
+.jumbotron{
+
+}
